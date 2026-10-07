@@ -7,4 +7,5 @@ class Waypoint {
     required this.nome,
     required this.latitude,
     required this.longitude,
+});
 }
